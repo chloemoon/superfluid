@@ -45,7 +45,7 @@ header {
 .fixed> .logo.scroll{
 	position: absolute;
 	width:10vw;
-	/* padding-left: 3.37vw; */
+	margin-left: 3.37vw;
 	animation: logoScroll 0.5s linear forwards; 
 }
 
